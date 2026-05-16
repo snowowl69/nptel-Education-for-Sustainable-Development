@@ -1,4 +1,4 @@
-# ESD Quiz Application
+# **Education for Sustainable Development** Quiz Application
 
 A comprehensive web-based quiz application for "Education for Sustainable Development" course covering all 12 weeks.
 
