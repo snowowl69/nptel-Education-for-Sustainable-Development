@@ -25,7 +25,7 @@ A comprehensive web-based quiz application for "Education for Sustainable Develo
 
 1. **Navigate to the project directory:**
 ```bash
-cd esd-quiz-app
+cd nptel-Education-for-Sustainable-Development
 ```
 
 2. **Install dependencies:**
