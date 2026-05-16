@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - ESD Quiz</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quiz Results</h1>
+        </div>
+
+            <!-- simple skeleton while results render -->
+            <div id="page-skeleton" class="skeleton">
+                <div class="skeleton-card">
+                    <div class="skeleton-row">
+                        <div class="skeleton-avatar skeleton-block"></div>
+                        <div class="skeleton-line skeleton-block"></div>
+                    </div>
+                    <div class="skeleton-line skeleton-block"></div>
+                </div>
+            </div>
+
+        <% if (results && results.length > 0) { %>
+            <div class="results-summary">
+                <div class="score-circle">
+                    <div class="score-percentage"><%= percentage %>%</div>
+                    <div class="score-text"><%= correct %> / <%= totalQuestions %> Correct</div>
+                </div>
+
+                <div class="performance-message">
+                    <% if (percentage >= 80) { %>
+                        <h2>Excellent</h2>
+                        <p>You have mastered this content. Great job!</p>
+                    <% } else if (percentage >= 60) { %>
+                        <h2>Good job</h2>
+                        <p>You have a good understanding. Review the sections below for improvement.</p>
+                    <% } else if (percentage >= 40) { %>
+                        <h2>Keep learning</h2>
+                        <p>You're on the right track. Review the material and try again.</p>
+                    <% } else { %>
+                        <h2>Keep trying</h2>
+                        <p>Go through the course materials again and try the quiz once more.</p>
+                    <% } %>
+                </div>
+            </div>
+
+            <div class="results-details">
+                <h2>Detailed Review</h2>
+                
+                <% 
+                const wrongAnswers = results.filter(r => !r.isCorrect);
+                const correctAnswers = results.filter(r => r.isCorrect);
+                const answerText = (result, letter) => {
+                    if (!letter || !result || !Array.isArray(result.options)) {
+                        return 'Not available';
+                    }
+
+                    const index = letter.charCodeAt(0) - 65;
+                    return result.options[index] || 'Not available';
+                };
+                
+                %>
+
+                <% if (wrongAnswers.length > 0) { %>
+                    <div class="section">
+                        <h3>❌ Wrong Answers (<%= wrongAnswers.length %>)</h3>
+                        <% wrongAnswers.forEach((result, index) => { %>
+                            <div class="result-item wrong">
+                                <div class="result-header">
+                                    <strong>Question <%= results.indexOf(result) + 1 %> <small style="color:#888;">(<%= result.sourceSet === 'new' ? 'New 2025' : 'Old' %>)</small></strong>
+                                    <span class="badge wrong-badge">WRONG</span>
+                                </div>
+                                <p class="question-text"><%= result.question %></p>
+                                <div class="answer-review">
+                                    <div class="your-answer">
+                                        <strong>Your Answer:</strong>
+                                        <p><%= result.userAnswer ? answerText(result, result.userAnswer) : 'Not answered' %></p>
+                                    </div>
+                                    <div class="correct-answer">
+                                        <strong>Correct Answer:</strong>
+                                        <p><%= answerText(result, result.correct || result.correctAnswer) %></p>
+                                    </div>
+                                </div>
+                                <% /* explanation removed */ %>
+                            </div>
+                        <% }); %>
+                    </div>
+                <% } %>
+
+                <% if (correctAnswers.length > 0) { %>
+                    <div class="section">
+                        <h3>✅ Correct Answers (<%= correctAnswers.length %>)</h3>
+                        <div class="correct-list">
+                            <% correctAnswers.forEach((result, index) => { %>
+                                <div class="result-item correct">
+                                    <div class="result-header">
+                                    <strong>Question <%= results.indexOf(result) + 1 %> <small style="color:#888;">(<%= result.sourceSet === 'new' ? 'New 2025' : 'Old' %>)</small></strong>
+                                    <span class="badge correct-badge">CORRECT</span>
+                                    </div>
+                                    <p class="question-text"><%= result.question %></p>
+                                    <p class="answer-text">
+                                        <strong>Answer:</strong> 
+                                        <%= result.userAnswer ? answerText(result, result.userAnswer) : 'Not answered' %>
+                                    </p>
+                                </div>
+                            <% }); %>
+                        </div>
+                    </div>
+                <% } %>
+            </div>
+
+            <div class="button-group">
+                <a href="/" class="btn btn-primary">Take another quiz</a>
+                <button onclick="window.print()" class="btn btn-secondary">Print results</button>
+            </div>
+        <% } else { %>
+            <div class="card">
+                <p>No results to display. Start a quiz to see results here.</p>
+                <a href="/" class="btn btn-primary">Start Quiz</a>
+            </div>
+        <% } %>
+    </div>
+
+    <style>
+        @media print {
+            .button-group {
+                display: none;
+            }
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const sk = document.getElementById('page-skeleton');
+            if (sk) sk.style.display = 'none';
+        });
+    </script>
+</body>
+</html>

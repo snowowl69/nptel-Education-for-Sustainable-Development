@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - ESD</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-left">
+                <h1>ESD Quiz</h1>
+                <p>
+                    Weeks: <%= weeks.join(', ') %>
+                    <% if (typeof questionSetDisplay !== 'undefined') { %>
+                        | Source: <%= questionSetDisplay %>
+                    <% } %>
+                </p>
+            </div>
+            <div class="progress-bar" id="progress">
+                Question 1 of <%= questions.length %>
+            </div>
+        </div>
+
+        <form id="quizForm" method="POST" action="/submit">
+            <!-- Skeleton shown while JS initializes -->
+            <div id="page-skeleton" class="skeleton">
+                <div class="skeleton-card">
+                    <div class="skeleton-row">
+                        <div class="skeleton-avatar skeleton-block"></div>
+                        <div class="skeleton-line skeleton-block"></div>
+                    </div>
+                    <div class="skeleton-line skeleton-block" style="width:60%;"></div>
+                    <div style="height:12px"></div>
+                    <div class="skeleton-line skeleton-block"></div>
+                    <div class="skeleton-line skeleton-block" style="width:80%;"></div>
+                </div>
+            </div>
+
+            <div class="quiz-container" aria-busy="false">
+                <% questions.forEach((question, index) => { %>
+                    <div class="question-card" data-index="<%= index %>">
+                        <div class="question-header">
+                            <h3>Question <%= index + 1 %> of <%= questions.length %></h3>
+                            <span class="question-number">ID: <%= question.id %></span>
+                        </div>
+                        
+                        <div class="question-text">
+                            <p><strong><%= question.question %></strong></p>
+                        </div>
+
+                        <div class="options">
+                                <% question.options.forEach((option, i) => { %>
+                                    <label class="option-label">
+                                        <input type="radio" 
+                                               name="answer_<%= question.id %>_<%= question.sourceSet %>" 
+                                               value="<%= String.fromCharCode(65 + i) %>"
+                                               onclick="autoSaveAnswers()"
+                                               id="q<%= question.id %>_<%= question.sourceSet %>_opt<%= i %>">
+                                        <span class="option-text"><%= option %></span>
+                                    </label>
+                                <% }); %>
+                            </div>
+
+                        <input type="hidden" name="questionIds[]" value="<%= question.id %>">
+                    </div>
+                <% }); %>
+            </div>
+
+            <div class="button-group nav-buttons" style="margin-bottom: 20px; display: flex; justify-content: space-between;">
+                <button type="button" class="btn btn-secondary" id="prevBtn" onclick="previousQuestion()">Previous</button>
+                <button type="button" class="btn btn-secondary" id="nextBtn" onclick="nextQuestion()">Next</button>
+            </div>
+            <div class="button-group submit-group">
+                <a href="/" class="btn btn-secondary">Back to Home</a>
+                <button type="submit" class="btn btn-primary btn-submit" id="submitBtn">Submit Quiz</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="/js/quiz.js"></script>
+</body>
+</html>

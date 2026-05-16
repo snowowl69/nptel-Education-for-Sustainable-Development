@@ -1,0 +1,1751 @@
+{
+  "quizzes": [
+    {
+      "week": 1,
+      "title": "Week 1 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "The concept of sustainable development was first introduced in which report?",
+          "options": [
+            "A. The Future We Want",
+            "B. The Millennium Report",
+            "C. The Brundtland Report",
+            "D. Agenda 21"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 1,
+          "week": 1
+        },
+        {
+          "originalQNum": 1,
+          "question": "Sustainable Devel opment Goals (SDGs)? Which document, adopted at Rio +20 in 2012, emphasized the d evelopment of",
+          "options": [
+            "A. The Johannesburg Declaration",
+            "B. Agenda 21",
+            "C. The Future We Want",
+            "D. Millennium Declaration"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 2,
+          "week": 1
+        },
+        {
+          "originalQNum": 5,
+          "question": "The National ECCE policy in India stands for--------",
+          "options": [
+            "A. Early Cultural and Care Engagement",
+            "B. Early Child Community Enrichment",
+            "C. Early Childhood Care and Education",
+            "D. Early Childhood Career Engagement"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 3,
+          "week": 1
+        },
+        {
+          "originalQNum": 4,
+          "question": "___ occurs when the body ad apts to prolonged absence of foo d.",
+          "options": [
+            "A. Obesity",
+            "B. Malnutrition",
+            "C. Hypernutrition",
+            "D. None of the above"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 4,
+          "week": 1
+        },
+        {
+          "originalQNum": 3,
+          "question": "E. Strengthen global partnerships Which of the following is a target of SDG 1?",
+          "options": [
+            "A. End all forms of hunger and malnutrition",
+            "B. Eradicate extreme poverty",
+            "C. Promote sustainable tourism",
+            "D. Achieve universal primary education"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 5,
+          "week": 1
+        },
+        {
+          "originalQNum": 7,
+          "question": "Which SDG emphasizes \"A ffordable and Clean Energy\"?",
+          "options": [
+            "A. SDG 5",
+            "B. SDG 7",
+            "C. SDG 9",
+            "D. SDG 13"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 6,
+          "week": 1
+        },
+        {
+          "originalQNum": 6,
+          "question": "highlighting the im portance of SDG 6? What percentage of the human body is composed of water appr oximately,",
+          "options": [
+            "A. 30%",
+            "B. 15%",
+            "C. 65%",
+            "D. 90%"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 7,
+          "week": 1
+        },
+        {
+          "originalQNum": 10,
+          "question": "___ absorb about 30% of car bon dioxide produced by humans.",
+          "options": [
+            "A. Animals",
+            "B. Clouds",
+            "C. Oceans",
+            "D. Mountains"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 8,
+          "week": 1
+        },
+        {
+          "originalQNum": 9,
+          "question": "The Global Hunger Index ranks countries based on indicators such as:",
+          "options": [
+            "A. Child mortality, poverty r ates, and school dropout rates",
+            "B. Malnutrition, undernouris hment, and child mortality",
+            "C. Disease prevalence, sanitation access, and literacy",
+            "D. Food production, trade policies, and GDP"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 9,
+          "week": 1
+        },
+        {
+          "originalQNum": 8,
+          "question": "The SDGs are also know n as----------- ---------.",
+          "options": [
+            "A. State goals",
+            "B. Continental goals",
+            "C. Regional goals",
+            "D. Global goals"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 10,
+          "week": 1
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "Week 2 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "One of the essential characterist ics of ESD is that it--------- -----.",
+          "options": [
+            "A. Limits its focus to environmental sustainability",
+            "B. Focuses solely on primary education",
+            "C. Uses interdisciplinary approaches",
+            "D. Prioritizes physical education"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 11,
+          "week": 2
+        },
+        {
+          "originalQNum": 1,
+          "question": "As a means of ___, education is an important tool to achieve SD Gs.",
+          "options": [
+            "A. Manipulation",
+            "B. Politicization",
+            "C. Implementation",
+            "D. Exploitation"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 12,
+          "week": 2
+        },
+        {
+          "originalQNum": 5,
+          "question": "The concept of sustainability is ___.",
+          "options": [
+            "A. rigid",
+            "B. evolving",
+            "C. political",
+            "D. fixed"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 13,
+          "week": 2
+        },
+        {
+          "originalQNum": 4,
+          "question": "essential for sust ainable development? The Declaration on the Right to Development (1986) identifies w hich of the following as",
+          "options": [
+            "A. National isolation",
+            "B. International cooperation",
+            "C. Technological automation",
+            "D. Technological awareness"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 14,
+          "week": 2
+        },
+        {
+          "originalQNum": 3,
+          "question": "Education for Sustainable Deve lopment aims to - ------------.",
+          "options": [
+            "A. Prepare individuals fo r competitive exams",
+            "B. Equip learners to address glob al challenges through informed actions",
+            "C. Promote industrial and corporate development",
+            "D. Train individuals in emotional skillsets"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 15,
+          "week": 2
+        },
+        {
+          "originalQNum": 8,
+          "question": "GDI stands for ___.",
+          "options": [
+            "A. Global Development Industry",
+            "B. Gender and Development Index",
+            "C. Global Discrimination Index",
+            "D. Gender Discrimination Index"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 16,
+          "week": 2
+        },
+        {
+          "originalQNum": 7,
+          "question": "SDGs have one advantage over t he MDGs that they are ___.",
+          "options": [
+            "A. local",
+            "B. universal",
+            "C. political",
+            "D. exclusive"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 17,
+          "week": 2
+        },
+        {
+          "originalQNum": 6,
+          "question": "(ESD)? Which pedagogical approach is em phasized in Education for Susta inable Development",
+          "options": [
+            "A. Physical education",
+            "B. Rote memorization",
+            "C. Participatory and critical thinking methods",
+            "D. Sole focus on textbook-based education"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 18,
+          "week": 2
+        },
+        {
+          "originalQNum": 10,
+          "question": "One of the principles of ESD involves harmonizing economic development with -------.",
+          "options": [
+            "A. social development only",
+            "B. both social and environment development",
+            "C. environment development only",
+            "D. emotional development"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 19,
+          "week": 2
+        },
+        {
+          "originalQNum": 9,
+          "question": "Peace education should ___.",
+          "options": [
+            "A. Focus on school education",
+            "B. Focus on all sections of society",
+            "C. Focus exclusively on conflict areas",
+            "D. Focus exclusively o n vulnerable sections"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 20,
+          "week": 2
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": "Week 3 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "Which domain of learning is not part of GCED?",
+          "options": [
+            "A. Cognitive",
+            "B. Socio-emotional",
+            "C. Behavioral",
+            "D. Technical"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 21,
+          "week": 3
+        },
+        {
+          "originalQNum": 1,
+          "question": "Global citizenship refers to the belief that individuals are me mbers of:------------",
+          "options": [
+            "A. Single networks",
+            "B. Isolated societies",
+            "C. Multiple diverse networks",
+            "D. Independent economies"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 22,
+          "week": 3
+        },
+        {
+          "originalQNum": 4,
+          "question": "Global Citizenship Education (GCE D) is directly linked to which SDG target?",
+          "options": [
+            "A. 4.7",
+            "B. 8.1",
+            "C. 11.4",
+            "D. 7.5"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 23,
+          "week": 3
+        },
+        {
+          "originalQNum": 3,
+          "question": "The domains of GCED emphasize: -------------------",
+          "options": [
+            "A. Knowledge, empathy, and action",
+            "B. Memory, logic, and reasoning",
+            "C. Isolation, control, and obedience",
+            "D. Rote learning and repetition"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 24,
+          "week": 3
+        },
+        {
+          "originalQNum": 6,
+          "question": "them? The green economy has interconnected goals, but which of the fo llowing is NOT one of",
+          "options": [
+            "A. Economic growth",
+            "B. Reducing greenhouse gas emissions",
+            "C. Increasing social exclusion",
+            "D. Alleviating poverty"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 25,
+          "week": 3
+        },
+        {
+          "originalQNum": 5,
+          "question": "promote global citizenship. UNESCO-MGIEP advocates for the i ntegration of ____ into educati on systems to",
+          "options": [
+            "A. Physical fitness",
+            "B. Social and emotional learning",
+            "C. AI innovation",
+            "D. Legal awareness"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 26,
+          "week": 3
+        },
+        {
+          "originalQNum": 8,
+          "question": "Global citizenship helps student s develop an awareness of:----- -----------",
+          "options": [
+            "A. Independence from global systems",
+            "B. Active collaboration and interdependence",
+            "C. Cultural homogeneity",
+            "D. Localized solutions only"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 27,
+          "week": 3
+        },
+        {
+          "originalQNum": 7,
+          "question": "TVET stands for: ---------",
+          "options": [
+            "A. Technical and Vocational Education and Training",
+            "B. Technological Values in Educational Training",
+            "C. Teaching Values for Education Training",
+            "D. Technical Vision in Education Training"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 28,
+          "week": 3
+        },
+        {
+          "originalQNum": 10,
+          "question": "development? Which of the following is empha sized as an under-recognized res ource for sustainable",
+          "options": [
+            "A. Non-renewable resources",
+            "B. Financial investment",
+            "C. Cultural heritage",
+            "D. Technological innovation"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 29,
+          "week": 3
+        },
+        {
+          "originalQNum": 9,
+          "question": "Cultural and natural heritage serve to: ----------------",
+          "options": [
+            "A. Hinder economic development",
+            "B. Isolate communities",
+            "C. Strengthen national unity",
+            "D. Diminish diversity"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 30,
+          "week": 3
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": "Week 4 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "existing occupation due to green economic activities and techno logies. ___ highlight the classification of the shift in the work and w orker requirements of an",
+          "options": [
+            "A. GICO",
+            "B. GNEO",
+            "C. GIDO",
+            "D. GESO"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 31,
+          "week": 4
+        },
+        {
+          "originalQNum": 1,
+          "question": "IGP stands for ___.",
+          "options": [
+            "A. Isolated Governance Policy",
+            "B. Institutional Growth Permit",
+            "C. Institutional Greening Plan",
+            "D. Instructional Governance Policy"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 32,
+          "week": 4
+        },
+        {
+          "originalQNum": 4,
+          "question": "A holistic framework for TVET in stitutions is required to suppo rt: -----------",
+          "options": [
+            "A. Green society only",
+            "B. Green economy only",
+            "C. Both A and B",
+            "D. None of the above"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 33,
+          "week": 4
+        },
+        {
+          "originalQNum": 3,
+          "question": "The International Framework for Greening TVET for a Green Socie ty is a: ---------",
+          "options": [
+            "A. Three-tier approach",
+            "B. Two-stage approach",
+            "C. Hierarchical system",
+            "D. One step process"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 34,
+          "week": 4
+        },
+        {
+          "originalQNum": 6,
+          "question": "Green practices in classr oom is an indicator of ___.",
+          "options": [
+            "A. Green research",
+            "B. Green culture",
+            "C. Green curriculum",
+            "D. Green house"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 35,
+          "week": 4
+        },
+        {
+          "originalQNum": 5,
+          "question": "The National Green Growth Policy focuses on: ----------------",
+          "options": [
+            "A. Green occupations",
+            "B. Climate change",
+            "C. Socio-economic development",
+            "D. All of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 36,
+          "week": 4
+        },
+        {
+          "originalQNum": 8,
+          "question": "Commitment to end dis eases like AIDS and malaria is focused on by ___.",
+          "options": [
+            "A. SDG 1",
+            "B. SDG 3",
+            "C. SDG 11",
+            "D. SDG 8"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 37,
+          "week": 4
+        },
+        {
+          "originalQNum": 7,
+          "question": "Not-for-profit entrepreneur ship is an example of ___.",
+          "options": [
+            "A. Social entrepreneurship",
+            "B. Blue entrepreneurship",
+            "C. Critical entrepreneurship",
+            "D. Corporate entrepreneurship"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 38,
+          "week": 4
+        },
+        {
+          "originalQNum": 10,
+          "question": "D.None of the above Nutritional requirements for an i ndividual are determined by __ _.",
+          "options": [
+            "A. body mass",
+            "B. physical activity",
+            "C. both A & B"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 39,
+          "week": 4
+        },
+        {
+          "originalQNum": 9,
+          "question": "Genetically defined human moto r capacity is referred to as ___.",
+          "options": [
+            "A. emotional fitness",
+            "B. spiritual fitness",
+            "C. physical fitness",
+            "D. aesthetic fitness"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 40,
+          "week": 4
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": "Week 5 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "Which of the following is not a h ealth system building block as suggested by WHO?",
+          "options": [
+            "A. Financing",
+            "B. Service delivery",
+            "C. Politics",
+            "D. Leadership/Governance"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 41,
+          "week": 5
+        },
+        {
+          "originalQNum": 1,
+          "question": "Which of the following is not an indigenous system of medicine?",
+          "options": [
+            "A. ayurveda",
+            "B. siddha",
+            "C. surgery",
+            "D. homeopathy"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 42,
+          "week": 5
+        },
+        {
+          "originalQNum": 5,
+          "question": "framework. The National Digital Health Mi ssion will help in better managem ent using the open ___",
+          "options": [
+            "A. MPI",
+            "B. KPI",
+            "C. UPI",
+            "D. API"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 43,
+          "week": 5
+        },
+        {
+          "originalQNum": 4,
+          "question": "___ in healthcare is how well a healthcare system meets its obj ectives.",
+          "options": [
+            "A. Cost",
+            "B. Value",
+            "C. Currency",
+            "D. Expense"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 44,
+          "week": 5
+        },
+        {
+          "originalQNum": 3,
+          "question": "Technology in healthcare infrast ructure can be used through ___ .",
+          "options": [
+            "A. Increasing cost of medicine",
+            "B. Mobile hospital",
+            "C. Mobile medicine",
+            "D. None of the above"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 45,
+          "week": 5
+        },
+        {
+          "originalQNum": 7,
+          "question": "Sus-QI extends the scope of QI to include ___.",
+          "options": [
+            "A. ecological sustainability",
+            "B. financial value",
+            "C. short term perspective",
+            "D. economic profit"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 46,
+          "week": 5
+        },
+        {
+          "originalQNum": 6,
+          "question": "The POSHAN Abhiyan in India was launched in ___ .",
+          "options": [
+            "A. 1999",
+            "B. 2023",
+            "C. 2018",
+            "D. 1965"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 47,
+          "week": 5
+        },
+        {
+          "originalQNum": 10,
+          "question": "Which of the following is not a pillar of food security?",
+          "options": [
+            "A. Food access",
+            "B. Food tax",
+            "C. Food availability",
+            "D. Food use"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 48,
+          "week": 5
+        },
+        {
+          "originalQNum": 9,
+          "question": "school going children. The ___ program in India has been key source of extra nourishme nt for millions of",
+          "options": [
+            "A. post-day meal",
+            "B. end-day meal",
+            "C. mid-day meal",
+            "D. start-day meal"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 49,
+          "week": 5
+        },
+        {
+          "originalQNum": 8,
+          "question": "___ is the worst level of food security for a country.",
+          "options": [
+            "A. Drought",
+            "B. Famine",
+            "C. Flood",
+            "D. Obesity"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 50,
+          "week": 5
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "title": "Week 6 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "In high income countries, hunge r is mainly cause d due to ___ .",
+          "options": [
+            "A. strikes",
+            "B. fasting",
+            "C. poverty",
+            "D. politics"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 51,
+          "week": 6
+        },
+        {
+          "originalQNum": 1,
+          "question": "___ systems provide water for cou ntries with unreliable or low rainfall.",
+          "options": [
+            "A. Irrigation",
+            "B. Infrastructural",
+            "C. Plumbing",
+            "D. Landscaping"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 52,
+          "week": 6
+        },
+        {
+          "originalQNum": 5,
+          "question": "Which of the following is a pos itive impact of MGNREGA programm e?",
+          "options": [
+            "A. increased rural wages",
+            "B. reduced gender wage gaps",
+            "C. better access to food",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 53,
+          "week": 6
+        },
+        {
+          "originalQNum": 4,
+          "question": "Which of the following is not a s ustainable agriculture practic e?",
+          "options": [
+            "A. crop rotation",
+            "B. using chemical fertilizers",
+            "C. mixed cropping with pulses",
+            "D. integrated pest management"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 54,
+          "week": 6
+        },
+        {
+          "originalQNum": 3,
+          "question": "___ as a form of malnutrition ha s to with quality of food and n ot quantity.",
+          "options": [
+            "A. Obesity",
+            "B. Starvation",
+            "C. Exposed hunger",
+            "D. Hidden hunger"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 55,
+          "week": 6
+        },
+        {
+          "originalQNum": 8,
+          "question": "SDG 7 (Affordable and clean e nergy) has __ major targets.",
+          "options": [
+            "A. 2",
+            "B. 5",
+            "C. 10",
+            "D. 20"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 56,
+          "week": 6
+        },
+        {
+          "originalQNum": 7,
+          "question": "by 2030 to meet the needs. As the world population is gro wing, food production needs to ri se by approximately ___",
+          "options": [
+            "A. 50%",
+            "B. 2%",
+            "C. 500%",
+            "D. 0.5%"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 57,
+          "week": 6
+        },
+        {
+          "originalQNum": 6,
+          "question": "According to research, mother’s e ducation is positively associa ted with ___ .",
+          "options": [
+            "A. children’s better health",
+            "B. children’s better education",
+            "C. children’s better nutrition",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 58,
+          "week": 6
+        },
+        {
+          "originalQNum": 10,
+          "question": "fight against climate change. The ___ had won the Peace Nobel in 2007 for its efforts in crea ting awareness for the",
+          "options": [
+            "A. IIPP",
+            "B. IPCC",
+            "C. IPPP",
+            "D. ICPP"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 59,
+          "week": 6
+        },
+        {
+          "originalQNum": 9,
+          "question": "Which state has the highest renewable energy capacity?",
+          "options": [
+            "A. Delhi",
+            "B. Assam",
+            "C. Karnataka",
+            "D. West Bengal"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 60,
+          "week": 6
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "title": "Week 7 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "extraction and use of fuels. Loss of biodiversity and risk of nuclear accidents are examples of ___ impacts of",
+          "options": [
+            "A. psychological",
+            "B. economic",
+            "C. environmental",
+            "D. biological"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 61,
+          "week": 7
+        },
+        {
+          "originalQNum": 1,
+          "question": "Renewable energy technologies provide ___ .",
+          "options": [
+            "A. lighting",
+            "B. heating",
+            "C. mobility",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 62,
+          "week": 7
+        },
+        {
+          "originalQNum": 5,
+          "question": "Which of the following is the ke y EV industry body in India?",
+          "options": [
+            "A. Society of Consumers of Electric Vehicles",
+            "B. Body of Electric Vehicles",
+            "C. Committee of Electric Vehicles",
+            "D. Society of Manufactur ers of Electric Vehicles"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 63,
+          "week": 7
+        },
+        {
+          "originalQNum": 4,
+          "question": "Hydrogen is produced mainly from a ___ process.",
+          "options": [
+            "A. biological",
+            "B. photosynthesis",
+            "C. electrical",
+            "D. thermochemical"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 64,
+          "week": 7
+        },
+        {
+          "originalQNum": 3,
+          "question": "Which of the following is not a political and security driver o f renewable energy?",
+          "options": [
+            "A. improve energy security",
+            "B. increase reliab ility and resilience",
+            "C. ensure energy democracy",
+            "D. improve public health"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 65,
+          "week": 7
+        },
+        {
+          "originalQNum": 7,
+          "question": "catastrophe. As a target of COP26, ___ is th e agreed limit for the temperatu re to rise to avoid climate",
+          "options": [
+            "A. 1.5° C",
+            "B. 15° C",
+            "C. 3.5° C",
+            "D. 10° C"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 66,
+          "week": 7
+        },
+        {
+          "originalQNum": 6,
+          "question": "The ___ agreement is a legally binding international treaty on climate change.",
+          "options": [
+            "A. Delhi",
+            "B. Italy",
+            "C. Chicago",
+            "D. Paris"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 67,
+          "week": 7
+        },
+        {
+          "originalQNum": 9,
+          "question": "specialization in power and energy system? Which university in India offers a dual degree in electrical en gineering with",
+          "options": [
+            "A. IIT Goa",
+            "B. IIT Jammu",
+            "C. IIT Kharagpur",
+            "D. NIT Kurukshetra"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 68,
+          "week": 7
+        },
+        {
+          "originalQNum": 8,
+          "question": "___ % of emissions presently. Zero-carbon solutions are beco ming competitive across economic sectors, representing",
+          "options": [
+            "A. 2",
+            "B. 25",
+            "C. 70",
+            "D. 90"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 69,
+          "week": 7
+        },
+        {
+          "originalQNum": 10,
+          "question": "harvested is called ___. Intentionally setting fire to st raw that remains after grains l ike rice and wheat are",
+          "options": [
+            "A. staple burning",
+            "B. stubble burning",
+            "C. straw burning",
+            "D. none of the above"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 70,
+          "week": 7
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "title": "Week 8 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "Education is related to SDG 1 such that ___ .",
+          "options": [
+            "A. education helps in skills required to build resilient infrastructure",
+            "B. education enhances skills to use natural resources more sustainably",
+            "C. education is critical to lifting people out of poverty",
+            "D. education helps reduce gender gaps"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 71,
+          "week": 8
+        },
+        {
+          "originalQNum": 1,
+          "question": "The Okayama Commitments, Japan focus on ___ .",
+          "options": [
+            "A. environmental conservation",
+            "B. literacy",
+            "C. empowerment",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 72,
+          "week": 8
+        },
+        {
+          "originalQNum": 5,
+          "question": "Which of the following is false?",
+          "options": [
+            "A. local problems can have global consequences",
+            "B. a systems thinking approach is important for sustainability issues",
+            "C. women play a vital role in environmental management",
+            "D. warfare is inherently constructive"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 73,
+          "week": 8
+        },
+        {
+          "originalQNum": 4,
+          "question": "An affective goal commitment or a _ of actions, is the core of any motivation.",
+          "options": [
+            "A. never assessed sequence",
+            "B. positively assessed sequence",
+            "C. newly assessed sequence",
+            "D. biologically assessed sequence"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 74,
+          "week": 8
+        },
+        {
+          "originalQNum": 3,
+          "question": "motivational and behavioral goal dimensions . The ___ model structures sustainability competencies into cognitive, affective-",
+          "options": [
+            "A. canvas",
+            "B. picture",
+            "C. hexagon",
+            "D. frame"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 75,
+          "week": 8
+        },
+        {
+          "originalQNum": 7,
+          "question": "GAP on ESD stands for Global ___ Programme.",
+          "options": [
+            "A. Action",
+            "B. Activity",
+            "C. Affect",
+            "D. Antecedent"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 76,
+          "week": 8
+        },
+        {
+          "originalQNum": 6,
+          "question": "environmental or social harm. The ___ principle advocates to take action to avoid possibility of irreversible",
+          "options": [
+            "A. precautionary",
+            "B. secondary",
+            "C. participatory",
+            "D. permanent"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 77,
+          "week": 8
+        },
+        {
+          "originalQNum": 10,
+          "question": "Experience for action-oriented learning may come from a ___.",
+          "options": [
+            "A. project",
+            "B. internship",
+            "C. facilitating a workshop",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 78,
+          "week": 8
+        },
+        {
+          "originalQNum": 9,
+          "question": "of knowledge. ___ pedagogy sees students as autonomous learners and emphasizes active development",
+          "options": [
+            "A. Institution-centered",
+            "B. Learner-centered",
+            "C. Media-centered",
+            "D. Teacher-centered"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 79,
+          "week": 8
+        },
+        {
+          "originalQNum": 8,
+          "question": "Which of the following is not a key competency for sustainable development?",
+          "options": [
+            "A. anticipatory",
+            "B. isolative",
+            "C. collaborative",
+            "D. normative"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 80,
+          "week": 8
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "title": "Week 9 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "Which of the following is not a key competency area for assessment of ESD?",
+          "options": [
+            "A. interpersonal",
+            "B. intrapersonal",
+            "C. systems thinking",
+            "D. past thinking"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 81,
+          "week": 9
+        },
+        {
+          "originalQNum": 1,
+          "question": "ESD. Utopian story-telling and science-fiction thinking are some examples of ___ method in",
+          "options": [
+            "A. economic and environmental exercises",
+            "B. analysis of complex systems",
+            "C. theoretical learning",
+            "D. vision building exercises"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 82,
+          "week": 9
+        },
+        {
+          "originalQNum": 4,
+          "question": "___ intelligence refers to seeing and mapping the world in 3D.",
+          "options": [
+            "A. Linguistic",
+            "B. Musical",
+            "C. Naturalist",
+            "D. Spatial"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 83,
+          "week": 9
+        },
+        {
+          "originalQNum": 3,
+          "question": "with, and communicate with our world. The ___ intelligences represent a sum total of human capacities to influence, interact",
+          "options": [
+            "A. singular",
+            "B. external",
+            "C. internal",
+            "D. multiple"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 84,
+          "week": 9
+        },
+        {
+          "originalQNum": 6,
+          "question": "societal structures. The idea of ___ implies changes in individual action intertwined with reorganization of",
+          "options": [
+            "A. big transformation",
+            "B. small transformation",
+            "C. slow transformation",
+            "D. fast transformation"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 85,
+          "week": 9
+        },
+        {
+          "originalQNum": 5,
+          "question": "replanning. ESD assessment is a part of a/an___ of planning, implementing, learning reflection and",
+          "options": [
+            "A. interactive action/reflection",
+            "B. linear",
+            "C. incomplete",
+            "D. none of the above"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 86,
+          "week": 9
+        },
+        {
+          "originalQNum": 8,
+          "question": "When a learner finds what they believed in the past is not accurate, they experience ___.",
+          "options": [
+            "A. a critical assessment of the world",
+            "B. a disorienting dilemma",
+            "C. a dissatisfaction",
+            "D. none of the above"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 87,
+          "week": 9
+        },
+        {
+          "originalQNum": 7,
+          "question": "Transformative learning and two major focuses: ___ and ___ learning.",
+          "options": [
+            "A. instrumental, communicative",
+            "B. interactive, commercial",
+            "C. intuitive, cognitive",
+            "D. industrial, constructive"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 88,
+          "week": 9
+        },
+        {
+          "originalQNum": 10,
+          "question": "Following are the vital components/drivers of sustainable education, except ___.",
+          "options": [
+            "A. profit.",
+            "B. planet",
+            "C. people",
+            "D. punishment"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 89,
+          "week": 9
+        },
+        {
+          "originalQNum": 9,
+          "question": "Which of the following is not a key principle of adult education?",
+          "options": [
+            "A. self concept",
+            "B. reluctance to learn",
+            "C. motivation",
+            "D. role of experience"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 90,
+          "week": 9
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "title": "Week 10 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "activities impact ___. Organizations are now expected to take responsibility for the ways in wh ich their",
+          "options": [
+            "A. their customers and workers",
+            "B. the society",
+            "C. the environment",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 91,
+          "week": 10
+        },
+        {
+          "originalQNum": 1,
+          "question": "Which of the following is false about sustainable leaders?",
+          "options": [
+            "A. they take care of how their role in their organization plays in a larger context",
+            "B. they are key in shaping the future",
+            "C. they set strategies for the triple bottom line",
+            "D. they look at immediate gains"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 92,
+          "week": 10
+        },
+        {
+          "originalQNum": 4,
+          "question": "The sustainability mindset involves the following except ___ .",
+          "options": [
+            "A. enlightened self-interest",
+            "B. presencing",
+            "C. open-mindedness",
+            "D. short term orientation"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 93,
+          "week": 10
+        },
+        {
+          "originalQNum": 3,
+          "question": "challenges. All leaders, no matter what sphere they are operating in, must attend to sustainability",
+          "options": [
+            "A. False",
+            "B. True"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 94,
+          "week": 10
+        },
+        {
+          "originalQNum": 6,
+          "question": "Which of the following is not one of the sustainable leadership practices?",
+          "options": [
+            "A. avoiding ambiguity and conflict management",
+            "B. making sustainability relevant to others",
+            "C. thinking holistically",
+            "D. building authentic relationships"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 95,
+          "week": 10
+        },
+        {
+          "originalQNum": 5,
+          "question": "___ thinking is often highlighted by the ability to zoom in and zoom out.",
+          "options": [
+            "A. Interactive",
+            "B. Collaborative",
+            "C. Systems",
+            "D. Structural"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 96,
+          "week": 10
+        },
+        {
+          "originalQNum": 8,
+          "question": "Which of the following is false about sustainable leadership?",
+          "options": [
+            "A. addresses issues of social justice",
+            "B. sustains leadership of oneself only",
+            "C. develops rather than depletes resources",
+            "D. secures success over time"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 97,
+          "week": 10
+        },
+        {
+          "originalQNum": 7,
+          "question": "___ is an example of a sustainability framework for integrated analysis and action.",
+          "options": [
+            "A. Five domains of sustainable communities",
+            "B. Natural step system conditions",
+            "C. Natural capitalism",
+            "D. All of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 98,
+          "week": 10
+        },
+        {
+          "originalQNum": 10,
+          "question": "known as ___. The ability to detect the path as a leader and change the course of acti on if necessary is",
+          "options": [
+            "A. rationalize",
+            "B. incentivize",
+            "C. pilot",
+            "D. pivot"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 99,
+          "week": 10
+        },
+        {
+          "originalQNum": 9,
+          "question": "The practice of inclusive leadership involves the following except ___.",
+          "options": [
+            "A. dialogue and consensus",
+            "B. coercion",
+            "C. democratic approaches",
+            "D. coaching"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 100,
+          "week": 10
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "title": "Week 11 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "Which of the following is not a key skill of sustainable leaders?",
+          "options": [
+            "A. communicating vision",
+            "B. exercising judgment",
+            "C. managing complexity",
+            "D. alienating disciplines"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 101,
+          "week": 11
+        },
+        {
+          "originalQNum": 1,
+          "question": "_________ leadership style entails transcending self-interest to serve the needs of others.",
+          "options": [
+            "A. Servant",
+            "B. radical",
+            "C. collaborative",
+            "D. visionary"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 102,
+          "week": 11
+        },
+        {
+          "originalQNum": 5,
+          "question": "Which of the factors helps leaders to become global leaders?",
+          "options": [
+            "A. making the practice an unconscious practice",
+            "B. staying within limits",
+            "C. building a support team",
+            "D. act based on self-interest"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 103,
+          "week": 11
+        },
+        {
+          "originalQNum": 4,
+          "question": "Global leaders cannot be trained since their skills are ge netic.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 104,
+          "week": 11
+        },
+        {
+          "originalQNum": 3,
+          "question": "co-evolving among others. LEAD India gives a theory ___ that consists of aspects like co-initiating, co-sensing and",
+          "options": [
+            "A. U",
+            "B. C",
+            "C. T",
+            "D. S"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 105,
+          "week": 11
+        },
+        {
+          "originalQNum": 7,
+          "question": "Which of the following is not a core component of transformational leadership?",
+          "options": [
+            "A. inspirational motivation",
+            "B. idealised influence",
+            "C. intellectual stimulation",
+            "D. collective consideration"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 106,
+          "week": 11
+        },
+        {
+          "originalQNum": 6,
+          "question": "follow because of what you have done for them, is known as the level of ___. According to Maxwell’s 5 levels of leadership, level 4 which highlights how people",
+          "options": [
+            "A. reproduction",
+            "B. rights",
+            "C. results",
+            "D. respect"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 107,
+          "week": 11
+        },
+        {
+          "originalQNum": 9,
+          "question": "development. ___________ technology is a key factor helping foster more sustainable urban",
+          "options": [
+            "A. blue",
+            "B. Green",
+            "C. red",
+            "D. white"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 108,
+          "week": 11
+        },
+        {
+          "originalQNum": 8,
+          "question": "__________. Accurately sensing the feelings an individual has about himself or others is known as",
+          "options": [
+            "A. unconditional positive regard",
+            "B. empathetic sensing",
+            "C. mindfulness",
+            "D. metacognition"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 109,
+          "week": 11
+        },
+        {
+          "originalQNum": 10,
+          "question": "Which of the following is a characteristic of a sustainable city?",
+          "options": [
+            "A. green buildings",
+            "B. solar farms",
+            "C. walkable and bike-able neighborhoods",
+            "D. all of the above"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 110,
+          "week": 11
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "title": "Week 12 Assignment",
+      "questions": [
+        {
+          "originalQNum": 2,
+          "question": "consume goods and resources. SDG ___ advocates to reduce ecological footprint by changing the way we produce and",
+          "options": [
+            "A. 1",
+            "B. 7",
+            "C. 12",
+            "D. 14"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 111,
+          "week": 12
+        },
+        {
+          "originalQNum": 1,
+          "question": "Natural resources are those that exist in the __ of human intervention.",
+          "options": [
+            "A. absence",
+            "B. presence",
+            "C. abundance",
+            "D. collaboration"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 112,
+          "week": 12
+        },
+        {
+          "originalQNum": 4,
+          "question": "___ is the largest environmental cause of disease and premature death globally.",
+          "options": [
+            "A. AIDS",
+            "B. malaria",
+            "C. pollution",
+            "D. hunger"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 113,
+          "week": 12
+        },
+        {
+          "originalQNum": 3,
+          "question": "Over 66% of electricity produced daily is from ___.",
+          "options": [
+            "A. coal",
+            "B. water",
+            "C. sun",
+            "D. wind"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 114,
+          "week": 12
+        },
+        {
+          "originalQNum": 6,
+          "question": "The 3Rs include the following except ___ .",
+          "options": [
+            "A. refuse",
+            "B. reuse",
+            "C. recycle",
+            "D. reduce"
+          ],
+          "correct": "A",
+          "explanation": "",
+          "id": 115,
+          "week": 12
+        },
+        {
+          "originalQNum": 5,
+          "question": "Green Fiscal Policy Network in partnership with the ___. In order to support reform on green fiscal policy, UN Environment has established the",
+          "options": [
+            "A. International Green Fund",
+            "B. International Consumption Fund",
+            "C. International Monetary Fund",
+            "D. International Sustenance Fund"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 116,
+          "week": 12
+        },
+        {
+          "originalQNum": 8,
+          "question": "environmental threats, be it climate change, natural resource depletion. Gandhi’s techniques of ‘satyagraha’ or ___, carry the means to combat many social and",
+          "options": [
+            "A. sustainability",
+            "B. violent protest",
+            "C. non-violent protest",
+            "D. spirituality"
+          ],
+          "correct": "C",
+          "explanation": "",
+          "id": 117,
+          "week": 12
+        },
+        {
+          "originalQNum": 7,
+          "question": "Mobiles and computers which are thrown after use are collectively known as ___ .",
+          "options": [
+            "A. modern waste",
+            "B. technology waste",
+            "C. global waste",
+            "D. e-waste"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 118,
+          "week": 12
+        },
+        {
+          "originalQNum": 10,
+          "question": "is called ___ . Being aware of one’s current thoughts, feelings and surroundings without judging oneself",
+          "options": [
+            "A. generosity",
+            "B. gratitude",
+            "C. mindlessness",
+            "D. mindfulness"
+          ],
+          "correct": "D",
+          "explanation": "",
+          "id": 119,
+          "week": 12
+        },
+        {
+          "originalQNum": 9,
+          "question": "___ is the flag bearer of SDGs.",
+          "options": [
+            "A. AIIMS",
+            "B. UNESCO",
+            "C. UNDP",
+            "D. Politics"
+          ],
+          "correct": "B",
+          "explanation": "",
+          "id": 120,
+          "week": 12
+        }
+      ]
+    }
+  ]
+}

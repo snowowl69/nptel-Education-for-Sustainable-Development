@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESD Quiz - Education for Sustainable Development</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Education for Sustainable Development</h1>
+            <p>Quiz Application</p>
+        </div>
+
+        <div class="content">
+            <!-- skeleton while page loads -->
+            <div id="page-skeleton" class="skeleton">
+                <div class="skeleton-card">
+                    <div class="skeleton-row">
+                        <div class="skeleton-avatar skeleton-block"></div>
+                        <div class="skeleton-line skeleton-block"></div>
+                    </div>
+                    <div class="skeleton-line skeleton-block"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Select Weeks to Start Quiz</h2>
+                <form id="quizForm" method="GET" action="/quiz">
+                    
+                    <div class="selection-group">
+                        <h3 style="margin-bottom: 1rem;">New Questions (2025 Paper)</h3>
+                        <div class="options-container">
+                            <% newWeeks.forEach(week => { %>
+                                <label class="week-option">
+                                    <input type="checkbox" name="weeks" value="new_<%= week.week %>" class="week-checkbox">
+                                    <span class="checkmark"></span>
+                                    <div class="week-info">
+                                        <strong>Week <%= week.week %>:</strong> <%= week.title %><br>
+                                        <small><%= week.questionCount %> Questions</small>
+                                    </div>
+                                </label>
+                            <% }); %>
+                        </div>
+                    </div>
+
+                    <div class="selection-group" style="margin-top: 2rem;">
+                        <h3 style="margin-bottom: 1rem;">Old Questions (Last Year)</h3>
+                        <div class="options-container">
+                            <% oldWeeks.forEach(week => { %>
+                                <label class="week-option">
+                                    <input type="checkbox" name="weeks" value="old_<%= week.week %>" class="week-checkbox">
+                                    <span class="checkmark"></span>
+                                    <div class="week-info">
+                                        <strong>Week <%= week.week %>:</strong> <%= week.title %><br>
+                                        <small><%= week.questionCount %> Questions</small>
+                                    </div>
+                                </label>
+                            <% }); %>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <label class="shuffle-option">
+                            <input type="checkbox" name="shuffle" id="shuffle" value="true">
+                            <span>Shuffle questions</span>
+                        </label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Start Quiz</button>
+                </form>
+            </div>
+
+            <div class="info-card">
+                <h3>📖 About This Quiz</h3>
+                <p>
+                    This quiz covers all 12 weeks of the Education for Sustainable Development course. 
+                    You can select one or multiple weeks, and optionally shuffle the questions for a 
+                    different experience each time. After submission, you'll see detailed results 
+                    highlighting correct and incorrect answers.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('quizForm').addEventListener('submit', function(e) {
+            const checkboxes = document.querySelectorAll('input[name="weeks"]:checked');
+            if (checkboxes.length === 0) {
+                e.preventDefault();
+                alert('Please select at least one week!');
+            }
+        });
+        // hide skeleton once DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            const sk = document.getElementById('page-skeleton');
+            if (sk) sk.style.display = 'none';
+        });
+    </script>
+</body>
+</html>
